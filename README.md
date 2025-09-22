@@ -18,5 +18,7 @@ Stay safe from extreme temperatures! This project uses a DHT11 sensor with Ardui
 👉 [Watch on Instagram](https://www.instagram.com/reel/DO08efbkwHF/?igsh=Z3NoZ3NsMXk1ZGRh)
 
 ---
+## Circuit Diagram
+![Temp Alert Circuit](./temp_alert_circuit_diagram.png)
 
-
+---
